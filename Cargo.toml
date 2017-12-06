@@ -1,0 +1,6 @@
+[package]
+name = "colortemp"
+desciption = "Simple functions to calculate color temperatures and RGB values"
+version = "0.1.0"
+license = "MIT/X11"
+authors = ["Katharina Fey <kookie@spacekookie.de>"]
