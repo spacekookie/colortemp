@@ -4,3 +4,10 @@ desciption = "Simple functions to calculate color temperatures and RGB values"
 version = "0.1.0"
 license = "MIT/X11"
 authors = ["Katharina Fey <kookie@spacekookie.de>"]
+
+documentation = "https://docs.rs/colortemp/"
+repository = "https://github.com/spacekookie/colortemp/"
+readme = "README.md"
+
+[package.metadata.release]
+upload-doc = true
